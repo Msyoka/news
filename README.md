@@ -24,7 +24,7 @@ $ source virtual/bin/activate
 $ pip install -r requirements.txt
 ```
 
-4. Get an API key from [TMDB](https://www.themoviedb.org/)
+4. Get an API key from [newsapi](https://newsapi.org/)
 
 5. Create a config.py file  inside the instance folder
 ```bash
@@ -32,7 +32,7 @@ $ touch instance/config.py
 ```
 6.  Paste in the API key inside the new config.py file
 ```python
-  MOVIE_API_KEY='Your API KEY HERE'
+  NEWS_API_KEY='Your API KEY HERE'
 ```
 7. Run the application
 
