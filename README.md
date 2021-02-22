@@ -39,3 +39,14 @@ $ touch instance/config.py
 ```bash
 $ python3 run.py
 ```
+## Technologies Used
+
+* Python3
+
+## Contact Information
+
+If you may have any question or contributions, please contact me via email at [daviemumo37@gmail.com]
+
+## License
+
+GNU GENERAL PUBLIC LICENSE &copy;2021 [David-Mumo]
