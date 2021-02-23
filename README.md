@@ -42,6 +42,10 @@ $ python3 run.py
 ## Technologies Used
 
 * Python3
+* Flask
+* FLask-Bootstrap
+* HTML5
+* CSS
 
 ## Contact Information
 
