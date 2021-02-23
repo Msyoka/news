@@ -6,7 +6,7 @@
 
 ## Description
 
-News is aweb appplication thatg alerts you on most current news highlights.
+News is a web application thatg alerts you on most current news highlights.
 
 ### Set-up instructions
 
